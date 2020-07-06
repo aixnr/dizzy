@@ -1,0 +1,5 @@
+# Proprietary package list
+nvidia-driver
+broadcom-sta-dkms
+wireless-tools
+firmware-b43-installer
